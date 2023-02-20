@@ -1,11 +1,5 @@
 ---
 title: "Vedant Andhale"
+tags:
+- job
 ---
-
-Tag: #job
-
-> **Note**
-> This is a note
-
-> **Warning**
-> This is a warning
