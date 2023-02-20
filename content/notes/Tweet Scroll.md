@@ -1,6 +1,6 @@
 ---
 title: "Tweet Scroll"
-tags: ["tutorial", "theme"] 
+
 ---
 
 
