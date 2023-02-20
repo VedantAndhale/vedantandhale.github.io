@@ -2,5 +2,6 @@
   "obsidian-autocomplete-plugin",
   "obsidian-languagetool-plugin",
   "obsidian-linter",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "antidote-grammar-checker-integration"
 ]

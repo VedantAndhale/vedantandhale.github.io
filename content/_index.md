@@ -12,7 +12,10 @@ enableToc: false
 - [Resource Repositories](notes/Resource%20Repositories)
     >Here you find all the resources which I find along my way on internet 
 - [Article Repositories](notes/Article%20Repositories.md)
-    >Here you find all the snippets/summary of blogs or tweet i like
+    >Here you find all the snippets/summary of blogs  i like
+- [Tweet Scroll](notes/Tweet%20Scroll.md)
+    >Here you find all the amazing tweets i like. 
+
 
 #### Skills I have in my Portfolio currently
 - Python Programming

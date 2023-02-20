@@ -11,15 +11,11 @@
             "id": "5bb8ecd35313258b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "notes/test.canvas",
-                "viewState": {
-                  "x": 380.84,
-                  "y": 125,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "notes/Tweet Scroll.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/test.canvas",
+                "file": "notes/Tweet Scroll.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/test.canvas",
+                "file": "notes/Tweet Scroll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/test.canvas"
+                "file": "notes/Tweet Scroll.md"
               }
             }
           }
@@ -153,15 +149,15 @@
   },
   "active": "5bb8ecd35313258b",
   "lastOpenFiles": [
+    "notes/Today I Learned.md",
+    "notes/Tweet Scroll.md",
+    "_index.md",
     "Excalidraw/Drawing 2023-02-20 18.15.18.excalidraw.md",
     "Excalidraw/Drawing 2023-02-20 18.12.25.excalidraw.md",
     "notes/test.canvas",
     "notes/Resource Repositories.md",
     "notes/Article Repositories.md",
-    "notes/Today I Learned.md",
-    "_index.md",
     "templates/post.md",
-    "notes/<Today.md",
-    "\"notes/Today.md"
+    "notes/<Today.md"
   ]
 }
