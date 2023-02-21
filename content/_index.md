@@ -6,6 +6,10 @@ enableToc: false
 - I am Vedant Andhale, an who just falled in love of python and data while learning web development and now trying to be Pythonist.
 - And this is a collection of my notes, resources and just about everything I do everyday.
 
+
+#### Skills I have in my Portfolio currently
+- Python Programming
+
 #### Content Playbook
 - [Today I Learned](notes/Today%20I%20Learned)
     >Here you find all my notes
@@ -16,9 +20,10 @@ enableToc: false
 - [Tweet Scroll](notes/Tweet%20Scroll.md)
     >Here you find all the amazing tweets i like. 
 
+Find all Content below:
+* [By Tags](tags)
 
-#### Skills I have in my Portfolio currently
-- Python Programming
+Otherwise, you can simply [Search](https://vedantandhale.github.io/#navigation) (`cmd/ctrl+k`) for terms and content.
 
 #### Connect with me
 - Twitter - https://twitter.com/Vedantpr0

@@ -1,8 +1,4 @@
 [
-  "obsidian-autocomplete-plugin",
-  "obsidian-languagetool-plugin",
-  "obsidian-linter",
-  "obsidian-excalidraw-plugin",
-  "antidote-grammar-checker-integration",
-  "text-extractor"
+  "obsidian-admonition",
+  "obsidian-auto-link-title"
 ]
