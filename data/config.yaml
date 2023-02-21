@@ -1,5 +1,5 @@
 name: Vedant Andhale
-enableToc: false
+enableToc: true
 openToc: false
 enableLinkPreview: true
 enableLatex: true
@@ -9,8 +9,8 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
-enableGitHubEdit: false
+enableRecentNotes: true
+enableGitHubEdit: true
 GitHubLink: https://VedantAndhale/vedantandhale.github.io/tree/hugo/content
 enableMermaid: true
 GitHubLink: https://github.com/VedantAndhale/vedantandhale.github.io/tree/hugo/content
@@ -28,4 +28,4 @@ links:
   - link_name: GitHub
     link: https://github.com/VedantAndhale
 favicon:
-  - { rel: "shortcut icon", href: "profile.png", type: "image/png" }
+  - { rel: "shortcut icon", href: "icon.png", type: "image/png" }
