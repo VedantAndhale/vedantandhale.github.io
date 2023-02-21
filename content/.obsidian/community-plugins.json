@@ -3,5 +3,6 @@
   "obsidian-languagetool-plugin",
   "obsidian-linter",
   "obsidian-excalidraw-plugin",
-  "antidote-grammar-checker-integration"
+  "antidote-grammar-checker-integration",
+  "text-extractor"
 ]

@@ -11,15 +11,30 @@
             "id": "5bb8ecd35313258b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "23a68f858d21dbd8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "025002ce72211860",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
               "state": {
-                "file": "notes/Article Repositories.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-02-21 09.24.37.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Article Repositories.md",
+                "file": "Excalidraw/Drawing 2023-02-21 09.24.37.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Article Repositories.md",
+                "file": "Excalidraw/Drawing 2023-02-21 09.24.37.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Article Repositories.md"
+                "file": "Excalidraw/Drawing 2023-02-21 09.24.37.excalidraw.md"
               }
             }
           }
@@ -147,17 +162,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5bb8ecd35313258b",
+  "active": "025002ce72211860",
   "lastOpenFiles": [
-    "notes/Resource Repositories.md",
-    "notes/Today I Learned.md",
-    "notes/Tweet Scroll.md",
-    "_index.md",
-    "Excalidraw/Drawing 2023-02-20 18.15.18.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-20 18.12.25.excalidraw.md",
-    "notes/test.canvas",
-    "notes/Article Repositories.md",
-    "templates/post.md",
-    "notes/<Today.md"
+    "Excalidraw/Drawing 2023-02-21 09.25.01.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-21 09.24.37.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-21 09.25.06.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-21 09.25.05.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-21 09.25.05_1.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-21 09.25.05_0.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-21 09.25.04.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-21 09.25.03_0.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-21 09.25.03.excalidraw.md",
+    "notes/Article Repositories.md"
   ]
 }
