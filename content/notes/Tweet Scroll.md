@@ -6,4 +6,4 @@ tags:
 
 ##### Job strategies
 
-https://twitter.com/adityafountane/status/1625157145602785283?s=20
+{{< tweet user=" adityafountane" id="1625157145602785283" >}}
