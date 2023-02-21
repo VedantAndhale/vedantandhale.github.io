@@ -29,3 +29,5 @@ links:
     link: https://github.com/VedantAndhale
 favicon:
   - { rel: "shortcut icon", href: "icon.png", type: "image/png" }
+
+googleAnalytics: G-RXQK9BRHG8
