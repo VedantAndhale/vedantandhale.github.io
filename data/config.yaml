@@ -13,7 +13,7 @@ enableRecentNotes: true
 enableGitHubEdit: true
 GitHubLink: https://VedantAndhale/vedantandhale.github.io/tree/hugo/content
 enableMermaid: true
-GitHubLink: https://github.com/VedantAndhale/vedantandhale.github.io/tree/hugo/content
+GitHubLink: https://github.com/VedantAndhale/vedantandhale.github.io/tree/master/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
