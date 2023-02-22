@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "23639cd599710c5e",
+        "id": "5991dbc3e9612813",
         "type": "tabs",
         "children": [
           {
-            "id": "cd6f86f8d26020d4",
+            "id": "488dd6f481fcb3a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Tweet Scroll.md",
+                "file": "notes/Web Scraping.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Tweet Scroll.md",
+                "file": "notes/Web Scraping.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Tweet Scroll.md",
+                "file": "notes/Web Scraping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Tweet Scroll.md"
+                "file": "notes/Web Scraping.md"
               }
             }
           }
@@ -144,6 +144,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -152,17 +153,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd6f86f8d26020d4",
+  "active": "488dd6f481fcb3a8",
   "lastOpenFiles": [
-    "notes/twitter_url.md",
+    "notes/Web Scraping.md",
+    "notes/Lets Write A data Science Blog Post.md",
     "notes/Tweet Scroll.md",
-    "notes/Resource Repositories.md",
     "notes/Today I Learned.md",
     "private/post.md",
-    "_index.md",
-    "templates/term.md",
-    "templates/airbyte.md",
-    "term/duckdb.md",
-    "term/rust.md"
+    "notes/Resource Repositories.md",
+    "notes/video.md",
+    "notes/The Art of Asking Questions(720P_60FPS).mp4",
+    "notes/twitter_url.md",
+    "_index.md"
   ]
 }

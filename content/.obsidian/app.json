@@ -1,18 +1,4 @@
 {
-  "newLinkFormat": "absolute",
   "alwaysUpdateLinks": true,
-  "promptDelete": false,
-  "vimMode": false,
-  "attachmentFolderPath": "images",
-  "newFileLocation": "folder",
-  "newFileFolderPath": "notes",
-  "useMarkdownLinks": true,
-  "pdfExportSettings": {
-    "pageSize": "Letter",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  },
-  "foldHeading": true,
-  "showInlineTitle": false
+  "newLinkFormat": "absolute"
 }
