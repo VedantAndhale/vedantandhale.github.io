@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "29b170649fc6b372",
+        "id": "9c00af96ed749255",
         "type": "tabs",
         "children": [
           {
-            "id": "5dcb9f2e37cae6ea",
+            "id": "e397098ddaac28ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/Web Scraping.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Web Scraping.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Web Scraping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/Web Scraping.md"
+              }
             }
           }
         ]
@@ -145,13 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5dcb9f2e37cae6ea",
+  "active": "e397098ddaac28ec",
   "lastOpenFiles": [
+    "notes/Today I Learned.md",
     "notes/What is Web Scraping ?.md",
     "notes/Web Scraping.md",
     "notes/Lets Write A data Science Blog Post.md",
     "notes/Tweet Scroll.md",
-    "notes/Today I Learned.md",
     "private/post.md",
     "notes/Resource Repositories.md",
     "notes/video.md",
