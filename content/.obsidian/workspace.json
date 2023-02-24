@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9c00af96ed749255",
+        "id": "676e186f03739d72",
         "type": "tabs",
         "children": [
           {
-            "id": "e397098ddaac28ec",
+            "id": "a2367384620dea7d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f74b78ddb5d7f20",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +28,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,11 +163,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e397098ddaac28ec",
+  "active": "9f74b78ddb5d7f20",
   "lastOpenFiles": [
-    "notes/Today I Learned.md",
-    "notes/What is Web Scraping ?.md",
+    "notes/Creating Spider.md",
     "notes/Web Scraping.md",
+    "notes/Creating Scrapy Project.md",
+    "notes/Scrapy Installation.md",
+    "notes/How Web Scraping Works ?.md",
+    "notes/What is Web Scraping ?.md",
+    "notes/Web Scraping with Scrapy.md",
+    "image/How Web Scraping Works.png",
+    "Pasted image 20230224183025.png",
+    "image",
+    "Excalidraw/How Web Scraping works.md",
+    "Excalidraw/Drawing 2023-02-24 18.29.24.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-24 18.29.30.excalidraw.md",
+    "Excalidraw",
+    "notes/Today I Learned.md",
     "notes/Lets Write A data Science Blog Post.md",
     "notes/Tweet Scroll.md",
     "private/post.md",

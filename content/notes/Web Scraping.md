@@ -1,5 +1,5 @@
 ---
-title: "Web Scrapping"
+title: "Web Scraping"
 tags:
 - Web Scraping
 - Course
@@ -12,6 +12,12 @@ intro
 #### [[Web Scraping with Scrapy]]
 
 ## Scrapy installation
-installation
+
+#### [[Scrapy Installation]]
 #### [[Creating Scrapy Project]]
+
 ## Scrapy Spider
+
+#### [[Creating Spider]]
+
+
