@@ -8,10 +8,12 @@
 // }
 
 :root {
-  --font-body: "Virgil";
-  --font-header: "PP Mori", "Source Sans Pro", sans-serif;
-  --font-mono: "Virgil";
+  --font-body: "Virgil", "Source Sans Pro", sans-serif;
+  --font-header: "Virgil", "Source Sans Pro", sans-serif;
+  --font-mono: "Virgil-Fraktion", "Fira Code", monospace;
 }
+
+
 
 @font-face {
   font-family: "Virgil";
@@ -20,82 +22,156 @@
   src: url('fonts/Virgil.woff2');
 }
 
-
 @font-face {
-  font-family: "PP Mori";
-  font-style: normal;
-  font-weight: normal;
-  src: url('fonts/PPMori-SemiBold.woff2');
-}
-
-@font-face {
-  font-family: "PP Mori";
+  font-family: "Virgil";
   font-style: normal;
   font-weight: lighter;
-  src: url('fonts/PPMori-Book.woff2');
+  src: url('fonts/Virgil.woff2');
 }
 
 @font-face {
-  font-family: "PP Mori";
+  font-family: "Virgil";
   font-style: normal;
   font-weight: bold;
-  src: url('fonts/PPMori-SemiBold.woff2');
+  src: url('fonts/Virgil.woff2');
 }
 
 @font-face {
-  font-family: "PP Mori";
+  font-family: "Virgil";
   font-style: normal;
   font-weight: 1000;
-  src: url('fonts/PPMori-ExtraBold.woff2');
+  src: url('fonts/Virgil.woff2');
 }
 
 @font-face {
-  font-family: "PP Mori";
+  font-family: "Virgil";
   font-style: italic;
   font-weight: normal;
-  src: url('fonts/PPMori-RegularItalic.woff2');
+  src: url('fonts/Virgil.woff2');
 }
 
 @font-face {
-  font-family: "PP Mori";
+  font-family: "Virgil";
   font-style: italic;
   font-weight: bold;
-  src: url('fonts/PPMori-SemiBoldItalic.woff2');
+  src: url('fonts/Virgil.woff2');
 }
 
 
 
 @font-face {
-  font-family: "PP Fraktion Mono";
+  font-family: "Virgil-Fraktion";
   font-style: normal;
   font-weight: normal;
-  src: url('fonts/PPFraktionMono-Regular.woff2');
+  src: url('fonts/Virgil.woff2');
 }
 
 @font-face {
-  font-family: "PP Fraktion Mono";
+  font-family: "Virgil-Fraktion";
   font-style: normal;
   font-weight: lighter;
-  src: url('fonts/PPFraktionMono-Bold.woff2');
+  src: url('fonts/Virgil.woff2');
 }
 
 @font-face {
-  font-family: "PP Fraktion Mono";
+  font-family: "Virgil-Fraktion";
   font-style: normal;
   font-weight: bold;
-  src: url('fonts/PPFraktionMono-Bold.woff2');
+  src: url('fonts/Virgil.woff2');
 }
 
 @font-face {
-  font-family: "PP Fraktion Mono";
+  font-family: "Virgil-Fraktion";
   font-style: italic;
   font-weight: normal;
-  src: url('fonts/PPFraktionMono-RegularItalic.woff2');
+  src: url('fonts/Virgil.woff2');
 }
 
 @font-face {
-  font-family: "PP Fraktion Mono";
+  font-family: "Virgil-Fraktion";
   font-style: italic;
   font-weight: bold;
-  src: url('fonts/PPFraktionMono-BoldItalic.woff2');
+  src: url('fonts/Virgil.woff2');
 }
+
+
+
+
+// @font-face {
+//   font-family: "PP Mori";
+//   font-style: normal;
+//   font-weight: normal;
+//   src: url('fonts/PPMori-SemiBold.woff2');
+// }
+
+// @font-face {
+//   font-family: "PP Mori";
+//   font-style: normal;
+//   font-weight: lighter;
+//   src: url('fonts/PPMori-Book.woff2');
+// }
+
+// @font-face {
+//   font-family: "PP Mori";
+//   font-style: normal;
+//   font-weight: bold;
+//   src: url('fonts/PPMori-SemiBold.woff2');
+// }
+
+// @font-face {
+//   font-family: "PP Mori";
+//   font-style: normal;
+//   font-weight: 1000;
+//   src: url('fonts/PPMori-ExtraBold.woff2');
+// }
+
+// @font-face {
+//   font-family: "PP Mori";
+//   font-style: italic;
+//   font-weight: normal;
+//   src: url('fonts/PPMori-RegularItalic.woff2');
+// }
+
+// @font-face {
+//   font-family: "PP Mori";
+//   font-style: italic;
+//   font-weight: bold;
+//   src: url('fonts/PPMori-SemiBoldItalic.woff2');
+// }
+
+
+
+// @font-face {
+//   font-family: "PP Fraktion Mono";
+//   font-style: normal;
+//   font-weight: normal;
+//   src: url('fonts/PPFraktionMono-Regular.woff2');
+// }
+
+// @font-face {
+//   font-family: "PP Fraktion Mono";
+//   font-style: normal;
+//   font-weight: lighter;
+//   src: url('fonts/PPFraktionMono-Bold.woff2');
+// }
+
+// @font-face {
+//   font-family: "PP Fraktion Mono";
+//   font-style: normal;
+//   font-weight: bold;
+//   src: url('fonts/PPFraktionMono-Bold.woff2');
+// }
+
+// @font-face {
+//   font-family: "PP Fraktion Mono";
+//   font-style: italic;
+//   font-weight: normal;
+//   src: url('fonts/PPFraktionMono-RegularItalic.woff2');
+// }
+
+// @font-face {
+//   font-family: "PP Fraktion Mono";
+//   font-style: italic;
+//   font-weight: bold;
+//   src: url('fonts/PPFraktionMono-BoldItalic.woff2');
+// }
