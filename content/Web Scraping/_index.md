@@ -8,9 +8,9 @@ I have learned Webscrapping from [Rahul Mula](https://codedamn.com/learn/scrapy-
 
 ## Introduction
 
- [[What is Web Scraping ?]]
- [[How Web Scraping Works ?]]
- [[Web Scraping with Scrapy]]
+ ###### [[What is Web Scraping ?]]
+ ###### [[How Web Scraping Works ?]]
+ ###### [[Web Scraping with Scrapy]]
 
 ## Scrapy installation
 
