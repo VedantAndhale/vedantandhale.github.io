@@ -1,15 +1,34 @@
 <!DOCTYPE html>
-<html lang="{{ .Lang }}">
-{{ partial "head.html" . }}
+<html lang="{{ .Site.Language.Lang }}">
 
-<body>
-<div class="singlePage">
-    {{partial "darkmode.html" .}}
-    <div class="centered">
-        <h1>404.</h1>
-        <h3>{{ i18n "404_message" }}</h3>
-        <a href="{{ .Site.BaseURL }}">{{ i18n "404_back" }}</a>
-    </div>
-</div>
-</body>
-</html>
+  <head>
+    {{ partial "docs/html-head" . }}
+    {{ partial "docs/inject/head" . }}
+
+    <style>
+      .not-found {
+        text-align: center;
+      }
+      .not-found h1 {
+        margin: .25em 0 0 0;
+        opacity: .25;
+        font-size: 40vmin;
+      }
+    </style>
+  </head>
+
+  <body>
+    <main class="flex justify-center not-found">
+      <div>
+        <h1>404</h1>
+        <h2>Page Not Found</h2>
+        <h3>
+          <a href="{{ .Site.Home.RelPermalink }}">{{ .Site.Params.Title }}</a>
+        </h3>
+      </div>
+    </main>
+
+    {{ partial "docs/inject/body" . }}
+  </body>
+
+  </html>
