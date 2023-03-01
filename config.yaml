@@ -32,7 +32,7 @@ menu:
 params:
 
   name: Vedant Andhale
-  title: What I Encoded
+  title: 🤔 What I Encoded
 
   # OPTIONAL: custom icon location
   # icon: 'location/to/icon.png'
@@ -81,15 +81,15 @@ params:
 
   # Site description and title
   description:
-    Notes, hosted by bencuan
+    What I encode is my personal version what i learned today and my second brain
 
   
   # Footer links
   links:
     - link_name: Website
-      link: https://bencuan.me
+      link: cooming
     - link_name: Blog
-      link: https://blog.bencuan.me
+      link: https://vedantandhale.github.io/
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.

@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "spellcheckDictionary": [
+    "pycharm"
+  ]
+}
