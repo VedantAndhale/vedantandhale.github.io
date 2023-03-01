@@ -146,3 +146,10 @@ params:
   BookSearch: false
   BookServiceWorker: false
   BookPortableLinks: false
+
+ignoreFiles: [
+    "/content/templates/*",
+    "/content/private/*",
+    "/content/.obsidian/*",
+    "/content/.trash/*"
+]
