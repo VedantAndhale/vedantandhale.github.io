@@ -1,5 +1,6 @@
 ---
 title: "How Web Scraping Works"
+bookHidden: true
 tags:
 - Web Scraping
 ---

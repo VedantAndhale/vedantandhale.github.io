@@ -1,5 +1,6 @@
 ---
 title: "Web Scraping with Scrapy"
+bookHidden: true
 tags:
 - Web Scraping
 ---

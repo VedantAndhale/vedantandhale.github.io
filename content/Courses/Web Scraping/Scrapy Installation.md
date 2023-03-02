@@ -1,5 +1,6 @@
 ---
 title: "Scrapy Installation"
+bookHidden: true
 tags:
 - Web Scraping
 ---

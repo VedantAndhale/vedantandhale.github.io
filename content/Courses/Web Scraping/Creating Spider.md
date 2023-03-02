@@ -1,5 +1,6 @@
 ---
 title: "Creating Scrapy spider"
+bookHidden: true
 tags:
 - Web Scraping
 ---
