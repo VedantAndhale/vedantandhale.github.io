@@ -1,6 +1,6 @@
 ---
 title: "Web Scraping"
-enableToc: true
+enableToc: false
 tags:
 - Course
 ---
@@ -9,6 +9,7 @@ I have learned Webscrapping from [Rahul Mula](https://codedamn.com/learn/scrapy-
 
 Find all releated notes below:
 * [By Tags](Web-Scraping)
+* [By Tags](tags)
 
 ## Introduction
 
