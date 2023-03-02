@@ -147,6 +147,7 @@
   },
   "active": "e4d452c6215790be",
   "lastOpenFiles": [
+    "_index.md",
     "Courses/Data Structure and Algorithm/_index.md",
     "Courses/Web Scraping/What is Web Scraping ?.md",
     "Courses/Web Scraping/Web Scraping with Scrapy.md",
@@ -177,7 +178,6 @@
     "notes/Web Scraping.md",
     "notes/Data Structure And Algorithms.md",
     "notes/Today I Learned.md",
-    "notes/Creating Spider.md",
     "image/How Web Scraping Works.png",
     "Pasted image 20230224183025.png",
     "image",
