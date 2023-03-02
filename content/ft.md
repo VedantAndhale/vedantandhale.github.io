@@ -5,18 +5,22 @@ enableToc: false
 
 # Button
 
-{{< button relref="/" [class="..."] >}}Get Home{{< /button >}}
+{{< button relref="/" >}}Get Home{{< /button >}}
 {{< button href="https://github.com/alex-shpak/hugo-book" >}}Contribute{{< /button >}}
 
 
 # Details
 
 
-{{< details "Title" [open] >}}
+{{< details "Title" open >}}
 ## Markdown content
 Lorem markdownum insigne...
 {{< /details >}}
 
+{{</* details title="Title" open=true */>}}
+## Markdown content
+Lorem markdownum insigne...
+{{</* /details */>}}
 
 # Expand
 
