@@ -25,6 +25,9 @@ Find all Content below:
 
 Otherwise, you can simply [Search](https://vedantandhale.github.io/#navigation) (`cmd/ctrl+k`) for terms and content.
 
+{{< button relref="/" [class="..."] >}}Get Home{{< /button >}}
+{{< button href="https://github.com/alex-shpak/hugo-book" >}}Contribute{{< /button >}}
+
 #### Connect with me
 - Twitter - https://twitter.com/Vedantpr0
 - LinkedIn - https://www.linkedin.com/in/VedantAndhale 
