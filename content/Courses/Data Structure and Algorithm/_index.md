@@ -1,6 +1,5 @@
 ---
 title: "Check in Index"
----
 bookCollapseSection: true
 enableToc: false
 ---
