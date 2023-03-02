@@ -1,13 +1,12 @@
 ---
 title: "Data Structure And Algorithms"
-bookCollapseSection: true
 tags:
 - DSA
 - Course
 ---
 I have learned Data Structure And Algorithms from [Jovian](https://jovian.com/learn/data-structures-and-algorithms-in-python), so this notes has course structure  and the miscellaneous section are the learning i learned on the way or from different sources.
 
-ps: not yet started
+ps: not yet started this page
 
 ### Lesson 1 : [[Binary Search,Linked Lists and Complexity]]
 
