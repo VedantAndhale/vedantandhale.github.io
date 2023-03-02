@@ -153,3 +153,4 @@ ignoreFiles: [
     "/content/.obsidian/*",
     "/content/.trash/*"
 ]
+bookHidden: true
