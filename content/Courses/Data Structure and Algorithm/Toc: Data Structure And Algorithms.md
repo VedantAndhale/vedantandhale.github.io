@@ -1,5 +1,5 @@
 ---
-title: "Data Structure And Algorithms"
+title: "Toc: Data Structure And Algorithms"
 tags:
 - DSA
 - Course

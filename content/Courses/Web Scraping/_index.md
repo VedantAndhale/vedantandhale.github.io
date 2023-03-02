@@ -1,25 +1,7 @@
 ---
 title: "Web Scraping"
 bookCollapseSection: true
-tags:
-- Web Scraping
-- Course
+enableToc: false
 ---
-I have learned Webscrapping from [Rahul Mula](https://codedamn.com/learn/scrapy-masterclass), so this notes has course structure  and the miscellaneous section are the learning i learned on the way or from different sources.
 
-## Introduction
-
- ###### [What is Web Scraping ?](WebScraping Material/What%20is%20Web%20Scraping%20?)
- ###### [[How Web Scraping Works ?]]
- ###### [[Web Scraping with Scrapy]]
-
-## Scrapy installation
-
- [[Scrapy Installation]]
- [[Creating Scrapy Project]]
-
-## Scrapy Spider
-
- [[Creating Spider]]
-[[demoi]]
-
+This is a collapsed page check index [[Toc: Web Scraping.md]]
