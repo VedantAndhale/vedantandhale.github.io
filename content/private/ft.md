@@ -1,6 +1,7 @@
 ---
 title: "Vedant Andhale"
 enableToc: false
+bookHidden: true
 ---
 
 # Button
