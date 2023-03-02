@@ -1,0 +1,33 @@
+name: Vedant Andhale
+enableToc: true
+openToc: false
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: true
+enableGitHubEdit: true
+GitHubLink: https://VedantAndhale/vedantandhale.github.io/tree/hugo/content
+enableMermaid: true
+GitHubLink: https://github.com/VedantAndhale/vedantandhale.github.io/tree/main/content
+search:
+  enableSemanticSearch: false
+  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
+description:
+  I am Vedant Andhale, an who just falled in love of python and data while learning wed development and now trying to be Pythonist.
+page_title:
+  "Vedant Andhale"
+links:
+  - link_name: Twitter
+    link: https://twitter.com/VedantAndhale
+  - link_name: GitHub
+    link: https://github.com/VedantAndhale
+favicon:
+  - { rel: "shortcut icon", href: "icon.png", type: "image/png" }
+
+

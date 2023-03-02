@@ -4,18 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "40a63e91ae2a6c09",
+        "id": "676e186f03739d72",
         "type": "tabs",
         "children": [
           {
-            "id": "687a323a50521d98",
+            "id": "a2367384620dea7d",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "9f74b78ddb5d7f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Web Scraping.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Web Scraping.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Web Scraping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/Web Scraping.md"
+              }
             }
           }
         ]
@@ -145,43 +163,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4d452c6215790be",
+  "active": "9f74b78ddb5d7f20",
   "lastOpenFiles": [
-    "_index.md",
-    "Courses/Data Structure and Algorithm/_index.md",
-    "Courses/Web Scraping/What is Web Scraping ?.md",
-    "Courses/Web Scraping/Web Scraping with Scrapy.md",
-    "Courses/Web Scraping/Scrapy Installation.md",
-    "Courses/Web Scraping/How Web Scraping Works ?.md",
-    "Courses/Web Scraping/Creating Spider.md",
-    "Courses/Web Scraping/Creating Scrapy Project.md",
-    "Courses/Web Scraping/_index.md",
-    "Courses/Data Structure and Algorithm/Toc: Data Structure And Algorithms.md",
-    "Courses/Web Scraping/Toc: Web Scraping",
-    "ft.md",
-    "_index (copy).md",
-    "Courses/Data Structure and Algorithm/Data Structure And Algorithms.md",
-    "Courses/Data Structure and Algorithm",
-    "Courses/Web Scraping/Web Scraping Material/What is Web Scraping ?.md",
-    "Courses/Web Scraping/Web Scraping Material/Web Scraping with Scrapy.md",
-    "Courses/Web Scraping/Web Scraping Material/Scrapy Installation.md",
-    "Courses/Web Scraping/Web Scraping Material/How Web Scraping Works ?.md",
-    "Courses/Web Scraping/Web Scraping Material/Creating Spider.md",
-    "Courses/Web Scraping/Web Scraping Material/Creating Scrapy Project.md",
-    "Courses/Web Scraping/Web Scraping Material",
-    "Courses/Web Scraping",
-    "Courses",
-    "Web Scraping/_index.md",
-    "Web Scraping/demoi.md",
-    "notes/demoi.md",
     "notes/Creating Scrapy Project.md",
     "notes/Web Scraping.md",
     "notes/Data Structure And Algorithms.md",
     "notes/Today I Learned.md",
+    "notes/Creating Spider.md",
+    "notes/Scrapy Installation.md",
+    "notes/How Web Scraping Works ?.md",
+    "notes/What is Web Scraping ?.md",
+    "notes/Web Scraping with Scrapy.md",
     "image/How Web Scraping Works.png",
     "Pasted image 20230224183025.png",
     "image",
+    "Excalidraw/How Web Scraping works.md",
+    "Excalidraw/Drawing 2023-02-24 18.29.24.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-24 18.29.30.excalidraw.md",
     "Excalidraw",
-    "notes/The Art of Asking Questions(720P_60FPS).mp4"
+    "notes/Lets Write A data Science Blog Post.md",
+    "notes/Tweet Scroll.md",
+    "private/post.md",
+    "notes/Resource Repositories.md",
+    "notes/video.md",
+    "notes/The Art of Asking Questions(720P_60FPS).mp4",
+    "notes/twitter_url.md",
+    "_index.md"
   ]
 }
