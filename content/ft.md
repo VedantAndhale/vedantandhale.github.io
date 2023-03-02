@@ -39,12 +39,12 @@ Lorem markdownum insigne...
 
 {{< tabs "uniqueid" >}}
 {{< tab >}} # Project {{< /tab >}}
-{{< button relref="/" [class="..."] >}}Get Home{{< /button >}}
+{{< button relref="/"  >}}Get Home{{< /button >}}
 {{< button href="https://github.com/alex-shpak/hugo-book" >}}Contribute{{< /button >}}
 {{< /tabs >}}
 {{< tabs "uniqueid" >}}
 {{< tab >}} # Project {{< /tab >}}
-{{< button relref="/" [class="..."] >}}Get Home{{< /button >}}
+{{< button relref="/">}}Get Home{{< /button >}}
 {{< button href="https://github.com/alex-shpak/hugo-book" >}}Contribute{{< /button >}}
 {{< /tabs >}}
 
