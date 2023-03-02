@@ -19,15 +19,15 @@ markup:
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
 
 # Sidebar menu additional links
-menu: false
+menu: 
   # before:
   #   - name: "Sample"
   #     url: "https://google.com"
   #     weight: 10
-  # after:
-  #   - name: "Github"
-  #     url: "https://github.com/64bitpandas/amethyst"
-  #     weight: 10
+  after:
+    - name: "Github"
+      url: "https://github.com/64bitpandas/amethyst"
+      weight: 10
 
 params:
 
