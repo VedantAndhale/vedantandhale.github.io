@@ -2,7 +2,7 @@
 title: "Creating Scrapy Project"
 bookHidden: true
 tags:
-- Web Scraping
+- Web-Scraping
 ---
 
 cmd 
