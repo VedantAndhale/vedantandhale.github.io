@@ -1,5 +1,6 @@
 ---
 title: "Web Scraping"
+bookCollapseSection: true
 tags:
 - Web Scraping
 - Course
@@ -20,5 +21,5 @@ I have learned Webscrapping from [Rahul Mula](https://codedamn.com/learn/scrapy-
 ## Scrapy Spider
 
  [[Creating Spider]]
-
+[[demoi]]
 
