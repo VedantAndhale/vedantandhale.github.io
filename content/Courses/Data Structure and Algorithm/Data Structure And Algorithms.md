@@ -1,5 +1,6 @@
 ---
 title: "Data Structure And Algorithms"
+bookCollapseSection: true
 tags:
 - DSA
 - Course
