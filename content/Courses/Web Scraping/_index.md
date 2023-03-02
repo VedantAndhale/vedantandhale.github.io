@@ -1,6 +1,6 @@
 ---
 title: "Web Scraping"
-enableToc: false
+enableToc: true
 tags:
 - Course
 ---
