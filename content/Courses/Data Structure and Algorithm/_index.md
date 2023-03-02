@@ -1,6 +1,6 @@
 ---
 title: "Data Structure And Algorithms"
-enableToc: true
+enableToc: false
 tags:
 - Course
 ---
