@@ -4,5 +4,6 @@
   "obsidian-linter",
   "obsidian-excalidraw-plugin",
   "antidote-grammar-checker-integration",
-  "text-extractor"
+  "text-extractor",
+  "obsidian-file-path-to-uri"
 ]

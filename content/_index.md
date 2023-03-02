@@ -11,13 +11,13 @@ enableToc: false
 - Python Programming
 
 #### Content Playbook
-- [Today I Learned](notes/Today%20I%20Learned)
+- [What I Encoded ?](Content%20Playbook/What%20I%20Encoded%20?.md)
     >Here you find all my notes
-- [Resource Repositories](notes/Resource%20Repositories)
+- [Resource Repositories](Content%20Playbook/Resource%20Repositories.md)
     >Here you find all the resources which I find along my way on internet 
-- [Article Repositories](notes/Article%20Repositories.md)
+- [Article Repositories](Content%20Playbook/Article%20Repositories.md)
     >Here you find all the snippets/summary of blogs  i like
-- [Tweet Scroll](notes/Tweet%20Scroll.md)
+- [Tweet Scroll](Content%20Playbook/Tweet%20Scroll.md)
     >Here you find all the amazing tweets i like. 
 
 Find all Content below:

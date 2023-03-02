@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "676e186f03739d72",
+        "id": "13a210fbf959454f",
         "type": "tabs",
         "children": [
           {
-            "id": "a2367384620dea7d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9f74b78ddb5d7f20",
+            "id": "ae94ff4b7debe836",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Web Scraping.md",
+                "file": "Courses/Data Structure and Algorithm/Toc: Data Structure And Algorithms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"rise of the\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Web Scraping.md",
+                "file": "Courses/Data Structure and Algorithm/Toc: Data Structure And Algorithms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Web Scraping.md",
+                "file": "Courses/Data Structure and Algorithm/Toc: Data Structure And Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Web Scraping.md"
+                "file": "Courses/Data Structure and Algorithm/Toc: Data Structure And Algorithms.md"
               }
             }
           }
@@ -163,31 +154,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f74b78ddb5d7f20",
+  "active": "ae94ff4b7debe836",
   "lastOpenFiles": [
-    "notes/Creating Scrapy Project.md",
-    "notes/Web Scraping.md",
-    "notes/Data Structure And Algorithms.md",
-    "notes/Today I Learned.md",
-    "notes/Creating Spider.md",
-    "notes/Scrapy Installation.md",
-    "notes/How Web Scraping Works ?.md",
-    "notes/What is Web Scraping ?.md",
-    "notes/Web Scraping with Scrapy.md",
+    "Courses/Data Structure and Algorithm/().md",
+    "Courses/Data Structure and Algorithm/Toc: Data Structure And Algorithms.md",
+    "Courses/Data Structure and Algorithm/Lesson 1/Lesson 1 - Binary Search,Linked Lists and Complexity.md",
+    "Courses/Data Structure and Algorithm/Lesson 1",
+    "Courses/_index.md",
+    "Courses/Data Structure and Algorithm/Binary Search,Linked Lists and Complexity.md",
+    "Courses/Data Structure and Algorithm/Binary Search, Linked Lists and Complexity.md",
+    "Courses/Data.md",
+    "Courses/Data Structure and Algorithm/Binary Search,Linked Lists and Complexity/Binary Search,Linked Lists and Complexity.md",
+    "Courses/Data Structure and Algorithm/Binary Search,Linked Lists and Complexity",
+    "Courses/Data Structure and Algorithm/_index.md",
+    "Courses/Web Scraping/0 - Toc Web Scraping.md",
+    "Courses/Web Scraping/1.2 - How Web Scraping Works ?.md",
+    "Courses/Web Scraping/1.1 - What is Web Scraping ?.md",
+    "Courses/Web Scraping/1.3 - Web Scraping with Scrapy.md",
+    "Courses/Web Scraping/_index.md",
+    "Courses/Web Scraping/0.0. Toc Web Scraping.md",
+    "Courses/Web Scraping/0.0 Toc Web Scraping.md",
+    "Courses/Web Scraping/Toc: Web Scraping.md",
+    "Courses/Web Scraping/0 Toc Web Scraping.md",
+    "Content Playbook/What I Encoded ?.md",
+    "_index.md",
+    "Web Scraping/demoi.md",
+    "private/ft.md",
+    "Courses/Web Scraping/2.1 - Scrapy Installation.md",
+    "Courses/Web Scraping/2.3 - Creating Spider.md",
+    "Courses/Web Scraping/2.2 - Creating Scrapy Project.md",
+    "Courses/Web Scraping/Toc: Web Scraping",
+    "ft.md",
+    "Courses/Data Structure and Algorithm",
+    "Courses/Web Scraping/Web Scraping Material",
+    "Courses/Web Scraping",
+    "Courses",
     "image/How Web Scraping Works.png",
     "Pasted image 20230224183025.png",
     "image",
-    "Excalidraw/How Web Scraping works.md",
-    "Excalidraw/Drawing 2023-02-24 18.29.24.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-24 18.29.30.excalidraw.md",
     "Excalidraw",
-    "notes/Lets Write A data Science Blog Post.md",
-    "notes/Tweet Scroll.md",
-    "private/post.md",
-    "notes/Resource Repositories.md",
-    "notes/video.md",
-    "notes/The Art of Asking Questions(720P_60FPS).mp4",
-    "notes/twitter_url.md",
-    "_index.md"
+    "notes/The Art of Asking Questions(720P_60FPS).mp4"
   ]
 }

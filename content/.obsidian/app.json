@@ -1,9 +1,10 @@
 {
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "notes",
   "spellcheckDictionary": [
     "pycharm"
-  ]
+  ],
+  "attachmentFolderPath": "image"
 }
