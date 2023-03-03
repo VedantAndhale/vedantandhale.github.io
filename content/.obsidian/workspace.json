@@ -11,8 +11,13 @@
             "id": "1792d855853d88a0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Data Structure and Algorithm/DSA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Courses/Data Structure and Algorithm/DSA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Courses/Data Structure and Algorithm/DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Courses/Data Structure and Algorithm/DSA.md"
+              }
             }
           }
         ]
@@ -147,12 +156,12 @@
   },
   "active": "1792d855853d88a0",
   "lastOpenFiles": [
-    "Courses/Web Scraping/Web-Scraping.md",
-    "Courses/Web Scraping/_index.md",
-    "tags.md",
-    "_index.md",
     "Courses/Data Structure and Algorithm/_index.md",
     "Courses/Data Structure and Algorithm/DSA.md",
+    "Courses/Web Scraping/Web-Scraping.md",
+    "Courses/Web Scraping/_index.md",
+    "_index.md",
+    "tags.md",
     "Courses/Data Structure and Algorithm/().md",
     "Courses/Data Structure and Algorithm/Toc: Data Structure And Algorithms.md",
     "Courses/Data Structure and Algorithm/Lesson 1/Lesson 1 - Binary Search,Linked Lists and Complexity.md",
