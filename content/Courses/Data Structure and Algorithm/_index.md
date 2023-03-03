@@ -1,13 +1,11 @@
 ---
 title: "Data Structure And Algorithms"
-enableToc: false
 tags:
 - Course
 ---
 I have learned Data Structure And Algorithms from [Jovian](https://jovian.com/learn/data-structures-and-algorithms-in-python), so this notes has course structure  and the miscellaneous section are the learning i learned on the way or from different sources.
 
-Find all releated notes below:
-* [By Tags](tags/DSA)
+
 
 
 ps: not yet started this page
