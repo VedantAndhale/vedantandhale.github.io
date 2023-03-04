@@ -11,8 +11,13 @@
             "id": "1792d855853d88a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Content Playbook/How to create a Standalone Executable in Python.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Content Playbook/How to create a Standalone Executable in Python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Content Playbook/How to create a Standalone Executable in Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Content Playbook/How to create a Standalone Executable in Python.md"
+              }
             }
           }
         ]
@@ -145,12 +154,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1792d855853d88a0",
+  "active": "e4d452c6215790be",
   "lastOpenFiles": [
+    "private/note.md",
+    "Content Playbook/1.What I Encoded ?.md",
+    "Content Playbook/How to create a Standalone Executable in Python.md",
+    "Content Playbook/Tweet Scroll.md",
+    "Content Playbook/Lets Write A data Science Blog Post.md",
+    "Content Playbook/Resource Repositories.md",
+    "Courses/Web Scraping/_index.md",
+    "Courses/Web Scraping/How Web Scraping Works ?.md",
+    "Courses/Web Scraping/Creating Spider.md",
+    "Courses/Web Scraping/Creating Scrapy Project.md",
+    "Content Playbook/Article Repositories.md",
+    "Excalidraw/Drawing 2023-03-04 13.44.18.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Alternative Pens.svg",
+    "Excalidraw/Scripts/Downloaded/Alternative Pens.md",
+    "Excalidraw/Scripts/Downloaded/Modify background color opacity.svg",
+    "Excalidraw/Scripts/Downloaded/Modify background color opacity.md",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "private/Excalidraw/march CGP.png",
+    "Excalidraw/Drawing 2023-03-04 14.03.54.excalidraw.md",
+    "Carreer Goals.canvas",
+    "Excalidraw",
     "Courses/Data Structure and Algorithm/DSA.md",
     "Courses/Data Structure and Algorithm/_index.md",
     "Courses/Web Scraping/Web-Scraping.md",
-    "Courses/Web Scraping/_index.md",
     "_index.md",
     "tags.md",
     "Courses/Data Structure and Algorithm/().md",
@@ -158,32 +192,13 @@
     "Courses/Data Structure and Algorithm/Lesson 1/Lesson 1 - Binary Search,Linked Lists and Complexity.md",
     "Courses/Data Structure and Algorithm/Lesson 1",
     "Courses/_index.md",
-    "Courses/Data Structure and Algorithm/Binary Search,Linked Lists and Complexity.md",
-    "Courses/Data Structure and Algorithm/Binary Search, Linked Lists and Complexity.md",
-    "Courses/Data.md",
-    "Courses/Data Structure and Algorithm/Binary Search,Linked Lists and Complexity/Binary Search,Linked Lists and Complexity.md",
     "Courses/Data Structure and Algorithm/Binary Search,Linked Lists and Complexity",
-    "Courses/Web Scraping/0 - Toc Web Scraping.md",
-    "Courses/Web Scraping/1.2 - How Web Scraping Works ?.md",
-    "Courses/Web Scraping/1.1 - What is Web Scraping ?.md",
-    "Courses/Web Scraping/1.3 - Web Scraping with Scrapy.md",
-    "Courses/Web Scraping/0.0. Toc Web Scraping.md",
-    "Courses/Web Scraping/0.0 Toc Web Scraping.md",
-    "Courses/Web Scraping/Toc: Web Scraping.md",
-    "Courses/Web Scraping/0 Toc Web Scraping.md",
-    "Content Playbook/What I Encoded ?.md",
-    "Web Scraping/demoi.md",
-    "private/ft.md",
-    "Courses/Web Scraping/2.1 - Scrapy Installation.md",
     "Courses/Web Scraping/Toc: Web Scraping",
     "Courses/Data Structure and Algorithm",
     "Courses/Web Scraping/Web Scraping Material",
     "Courses/Web Scraping",
     "Courses",
     "image/How Web Scraping Works.png",
-    "Pasted image 20230224183025.png",
-    "image",
-    "Excalidraw",
-    "notes/The Art of Asking Questions(720P_60FPS).mp4"
+    "Pasted image 20230224183025.png"
   ]
 }
