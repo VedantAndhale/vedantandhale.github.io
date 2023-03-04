@@ -4,7 +4,7 @@ enableToc: false
 ---
 ## Single Knowledge Snippets
 
-* [How to create a Standalone Executable in Python](Content%20Playbook/notes/How%20to create%20a%20Standalone%20Executabl%20in%20Python.md)
+* [How to create a Standalone Executable in Python](notes/How%20to%20create%20a%20Standalone%20Executable%20in%20Python.md)
 * 
 
 

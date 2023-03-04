@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "70c0482a68e889b1",
+        "id": "79624a464b467b75",
         "type": "tabs",
         "children": [
           {
-            "id": "1792d855853d88a0",
+            "id": "ebdf2a507fd3a79a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content Playbook/1-What I Encoded ?.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content Playbook/1-What I Encoded ?.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content Playbook/1-What I Encoded ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Content Playbook/1-What I Encoded ?.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,9 +145,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1792d855853d88a0",
+  "active": "e4d452c6215790be",
   "lastOpenFiles": [
+    "Excalidraw/_index.md.md",
     "notes/How to create a Standalone Executable in Python.md",
+    "notes/_index.md.md",
+    "notes/How to create a Standalone Executabl in Python.md",
+    "Content Playbook/What I Encoded ?.md",
+    "notes/How to.md",
     "notes",
     "Content Playbook/notes/How to create a Standalone Executable in Python.md",
     "Content Playbook/notes",
@@ -165,7 +161,6 @@
     "Content Playbook/How to create a Standalone Executable in Python.md",
     "Content Playbook/Article Repositories.md",
     "Content Playbook/Resource Repositories.md",
-    "Content Playbook/1-What I Encoded ?.md",
     "_index.md",
     "Content Playbook/What I Encoded ?.md",
     "private/note.md",
@@ -190,10 +185,6 @@
     "Excalidraw/Drawing 2023-03-04 14.03.54.excalidraw.md",
     "Carreer Goals.canvas",
     "Excalidraw",
-    "Courses/Data Structure and Algorithm/DSA.md",
-    "Courses/Data Structure and Algorithm/_index.md",
-    "Courses/Web Scraping/Web-Scraping.md",
-    "tags.md",
     "Courses/Data Structure and Algorithm/Lesson 1",
     "Courses/Data Structure and Algorithm/Binary Search,Linked Lists and Complexity",
     "Courses/Web Scraping/Toc: Web Scraping",
