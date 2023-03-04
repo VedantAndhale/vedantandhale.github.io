@@ -11,7 +11,7 @@ enableToc: false
 - Python Programming
 
 #### Content Playbook
-- [What I Encoded ?](Content%20Playbook/1.What%20I%20Encoded%20?.md)
+- [What I Encoded ?](Content%20Playbook/1-What%20I%20Encoded%20?.md)
     >Here you find all my notes
 - [Resource Repositories](Content%20Playbook/Resource%20Repositories.md)
     >Here you find all the resources which I find along my way on internet 

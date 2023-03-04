@@ -1,5 +1,5 @@
 ---
-title: "1.What I Encoded ?"
+title: "What I Encoded ?"
 enableToc: false
 ---
 ## Single Knowledge Snippets
