@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content Playbook/How to create a Standalone Executable in Python.md",
+                "file": "Content Playbook/1-What I Encoded ?.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content Playbook/How to create a Standalone Executable in Python.md",
+                "file": "Content Playbook/1-What I Encoded ?.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content Playbook/How to create a Standalone Executable in Python.md",
+                "file": "Content Playbook/1-What I Encoded ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content Playbook/How to create a Standalone Executable in Python.md"
+                "file": "Content Playbook/1-What I Encoded ?.md"
               }
             }
           }
@@ -156,19 +156,19 @@
   },
   "active": "1792d855853d88a0",
   "lastOpenFiles": [
+    "Content Playbook/How to create a Standalone Executable in Python.md",
+    "Content Playbook/Article Repositories.md",
+    "Content Playbook/Resource Repositories.md",
     "Content Playbook/1-What I Encoded ?.md",
     "_index.md",
     "Content Playbook/What I Encoded ?.md",
-    "Content Playbook/How to create a Standalone Executable in Python.md",
     "private/note.md",
     "Content Playbook/Tweet Scroll.md",
     "Content Playbook/Lets Write A data Science Blog Post.md",
-    "Content Playbook/Resource Repositories.md",
     "Courses/Web Scraping/_index.md",
     "Courses/Web Scraping/How Web Scraping Works ?.md",
     "Courses/Web Scraping/Creating Spider.md",
     "Courses/Web Scraping/Creating Scrapy Project.md",
-    "Content Playbook/Article Repositories.md",
     "Excalidraw/Drawing 2023-03-04 13.44.18.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Alternative Pens.svg",
     "Excalidraw/Scripts/Downloaded/Alternative Pens.md",
