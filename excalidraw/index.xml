@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Excalidraws on</title><link>https://vedantandhale.github.io/excalidraw/</link><description>Recent content in Excalidraws on</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://vedantandhale.github.io/excalidraw/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://vedantandhale.github.io/Excalidraw/Drawing-2023-03-04-13.44.18.excalidraw/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vedantandhale.github.io/Excalidraw/Drawing-2023-03-04-13.44.18.excalidraw/</guid><description>==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+Text Elements # Career Goal Plan ^vXX2fEOo
+WeekDays = 2 hours * 5 WeekEnds = 6 hours * 2 Totals = 22 hours ^EIgCq806
+8 hours (clg/office) ^8nZAVShS
+4 hours (Travel) ^OQra7rCy
+8 hours (Sleep) ^78x3MS2n
+2 hours (other) ^bxcrGxnX
+12 Hours ^RgItvOec
+20 hours/week + 2 buffer ^DQPve0Vu
+General Time Investment ^unAj3XUD
+Break Down = 6 + 14 (Ideal) ^MITnAX65</description></item><item><title/><link>https://vedantandhale.github.io/Excalidraw/Scripts/Downloaded/Alternative-Pens/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vedantandhale.github.io/Excalidraw/Scripts/Downloaded/Alternative-Pens/</guid><description>/* IF YOU ACCIDENTLY MODIFY THIS FILE AND IT STOPS WORKING, SIMPLY DOWNLOAD IT AGAIN FROM THE SCRIPT LIBRARY.
+How to create a new pen template # It takes a bit of experimentation and skill to create a new pen, so be patient.
+Create a folder in your Vault for your pen options. The default is Excalidraw/Pens. Create a new markdown file in your in the pen folder (e.</description></item><item><title/><link>https://vedantandhale.github.io/Excalidraw/Scripts/Downloaded/Auto-Layout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vedantandhale.github.io/Excalidraw/Scripts/Downloaded/Auto-Layout/</guid><description>/*
+Download this file and save to your Obsidian Vault including the first line, or open it in &amp;ldquo;Raw&amp;rdquo; and copy the entire contents to Obsidian.
+This script performs automatic layout for the selected top-level grouping objects. It is powered by elkjs and needs to be connected to the Internet.
+See documentation for more details: https://zsviczian.github.io/obsidian-excalidraw-plugin/ExcalidrawScriptsEngine.html
+*/ if ( !ea.verifyMinimumPluginVersion || !ea.verifyMinimumPluginVersion(&amp;#34;1.5.21&amp;#34;) ) { new Notice( &amp;#34;This script requires a newer version of Excalidraw.</description></item><item><title/><link>https://vedantandhale.github.io/Excalidraw/Scripts/Downloaded/Elbow-connectors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vedantandhale.github.io/Excalidraw/Scripts/Downloaded/Elbow-connectors/</guid><description>/*
+Download this file and save to your Obsidian Vault including the first line, or open it in &amp;ldquo;Raw&amp;rdquo; and copy the entire contents to Obsidian.
+This script converts the selected connectors to elbows.
+See documentation for more details: https://zsviczian.github.io/obsidian-excalidraw-plugin/ExcalidrawScriptsEngine.html
+*/ const selectedCenterConnectPoints = await utils.suggester( [&amp;#39;Yes&amp;#39;, &amp;#39;No&amp;#39;], [true, false], &amp;#34;Center connect points?&amp;#34; ); const centerConnectPoints = selectedCenterConnectPoints??false; const allElements = ea.getViewElements(); const elements = ea.</description></item><item><title/><link>https://vedantandhale.github.io/Excalidraw/Scripts/Downloaded/Modify-background-color-opacity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vedantandhale.github.io/Excalidraw/Scripts/Downloaded/Modify-background-color-opacity/</guid><description>/* Download this file and save to your Obsidian Vault including the first line, or open it in &amp;ldquo;Raw&amp;rdquo; and copy the entire contents to Obsidian.
+This script changes the opacity of the background color of the selected boxes.
+The default background color in Excalidraw is so dark that the text is hard to read. You can lighten the color a bit by setting transparency. And you can tweak the transparency over and over again until you&amp;rsquo;re happy with it.</description></item></channel></rss>
