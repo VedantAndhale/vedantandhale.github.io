@@ -4,7 +4,8 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "notes",
   "spellcheckDictionary": [
-    "pycharm"
+    "pycharm",
+    "streamlit"
   ],
   "attachmentFolderPath": "image"
 }

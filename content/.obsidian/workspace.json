@@ -11,8 +11,13 @@
             "id": "ebdf2a507fd3a79a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/How to deploy streamlit app.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/How to deploy streamlit app.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/How to deploy streamlit app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/How to deploy streamlit app.md"
+              }
             }
           }
         ]
@@ -145,13 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4d452c6215790be",
+  "active": "ebdf2a507fd3a79a",
   "lastOpenFiles": [
+    "private/note.md",
+    "notes/How to deploy streamlit app.md",
+    "Content Playbook/What I Encoded ?.md",
     "Excalidraw/_index.md.md",
     "notes/How to create a Standalone Executable in Python.md",
     "notes/_index.md.md",
     "notes/How to create a Standalone Executabl in Python.md",
-    "Content Playbook/What I Encoded ?.md",
     "notes/How to.md",
     "notes",
     "Content Playbook/notes/How to create a Standalone Executable in Python.md",
@@ -162,8 +173,6 @@
     "Content Playbook/Article Repositories.md",
     "Content Playbook/Resource Repositories.md",
     "_index.md",
-    "Content Playbook/What I Encoded ?.md",
-    "private/note.md",
     "Content Playbook/Tweet Scroll.md",
     "Content Playbook/Lets Write A data Science Blog Post.md",
     "Courses/Web Scraping/_index.md",
@@ -182,7 +191,6 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "private/Excalidraw/march CGP.png",
-    "Excalidraw/Drawing 2023-03-04 14.03.54.excalidraw.md",
     "Carreer Goals.canvas",
     "Excalidraw",
     "Courses/Data Structure and Algorithm/Lesson 1",
