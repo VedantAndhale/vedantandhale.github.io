@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/How to deploy streamlit app.md",
+                "file": "Content Playbook/What I Encoded ?.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/How to deploy streamlit app.md",
+                "file": "Content Playbook/What I Encoded ?.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/How to deploy streamlit app.md",
+                "file": "Content Playbook/What I Encoded ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/How to deploy streamlit app.md"
+                "file": "Content Playbook/What I Encoded ?.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "ebdf2a507fd3a79a",
   "lastOpenFiles": [
-    "private/note.md",
     "notes/How to deploy streamlit app.md",
+    "private/note.md",
     "Content Playbook/What I Encoded ?.md",
     "Excalidraw/_index.md.md",
     "notes/How to create a Standalone Executable in Python.md",
